@@ -1,0 +1,43 @@
+#websitename{
+    text-decoration: none;
+}
+
+h5{
+    color: aqua;
+}
+
+#headingaboutus {
+   text-align: center;
+   margin-top: 30px;
+   margin-bottom: 70px;
+}
+
+.nav-item:hover {
+    color: #80fbff !important;
+    background-color: #a0d5df;
+}
+
+.joinapplx{ 
+        text-align: justify;
+}
+
+.display-4 {
+    align-items: flex-start;
+}
+
+
+#rows{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+#profilepic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+
