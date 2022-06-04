@@ -40,6 +40,9 @@ h5{
     margin-bottom: 20px;
 }
 
+#goapp{
+    text-decoration: none;
+}
 
 #profilepic {
     display: flex;
