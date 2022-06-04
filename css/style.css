@@ -6,6 +6,11 @@
     text-decoration: none;
 }
 
+.alert{
+    text-align: justify;
+}
+
+
 h5{
     color: aqua;
 }
