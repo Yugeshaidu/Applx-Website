@@ -6,10 +6,20 @@
     text-decoration: none;
 }
 
+
 .alert{
     text-align: justify;
 }
 
+.noBorder {
+    border:none !important;
+}
+
+
+#contactmail {
+    text-decoration: none;
+    color: #FFFFFF;
+}
 
 h5{
     color: aqua;
